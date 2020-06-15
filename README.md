@@ -3,6 +3,8 @@ This is a lab work of Microprocessors - Micro Controllers Subject
 
 IDE used for this lab: MPLAB X IDE
 
+Running on the microprocessor PIC18F8722
+
 Embedded board used for this lab: PICDEM PIC18 Explorer Demonstration Board
 
 A program that mimics a Casio digital watch. A program has
